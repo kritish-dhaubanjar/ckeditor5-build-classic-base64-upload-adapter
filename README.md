@@ -61,3 +61,6 @@ drwxrwxr-x 2 jin jin    4096 May  8 13:07 translations
 /* After */
 import ClassicEditor from '@/ckeditor5-build-classic-base64-upload-adapter/build/ckeditor.js';
 ```
+
+![image](https://user-images.githubusercontent.com/25634165/117547828-75324380-b051-11eb-80e9-0bf0c9bbf2dd.png)
+
