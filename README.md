@@ -66,3 +66,13 @@ import ClassicEditor from '@/ckeditor5-build-classic-base64-upload-adapter/build
 
 ## [Image Compression](https://github.com/cristianizzo/ckeditor5-build-classic/tree/stable/src)
 
+```
+npm install browser-image-compression 
+```
+
+### Refer
+```
+/src/modules/base64uploadAdapter.js
+/src/modules/imageCompressor.js
+/src/ckeditor.js
+```
